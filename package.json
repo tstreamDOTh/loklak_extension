@@ -1,0 +1,32 @@
+{
+  "name": "loklak_extension",
+  "version": "1.0.0",
+  "description": "Web extension for loklak search",
+  "devDependencies": {
+    "eslint": "^4.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstreamDOTh/loklak_extension.git"
+  },
+  "scripts": {
+    "test": "eslint .",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "loklak",
+    "web-extension",
+    "fossasia",
+    "loklak-search",
+    "loklak-api"
+  ],
+  "author": "tstreamDOTh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstreamDOTh/loklak_extension/issues"
+  },
+  "homepage": "https://github.com/tstreamDOTh/loklak_extension#readme",
+  "dependencies": {
+    "babel-eslint": "^7.2.3"
+  }
+}
